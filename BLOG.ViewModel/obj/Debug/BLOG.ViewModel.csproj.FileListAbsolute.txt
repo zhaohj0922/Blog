@@ -1,0 +1,5 @@
+D:\myself\project\BLOG\BLOG.ViewModel\bin\Debug\BLOG.ViewModel.dll
+D:\myself\project\BLOG\BLOG.ViewModel\bin\Debug\BLOG.ViewModel.pdb
+D:\myself\project\BLOG\BLOG.ViewModel\obj\Debug\BLOG.ViewModel.csproj.CoreCompileInputs.cache
+D:\myself\project\BLOG\BLOG.ViewModel\obj\Debug\BLOG.ViewModel.dll
+D:\myself\project\BLOG\BLOG.ViewModel\obj\Debug\BLOG.ViewModel.pdb

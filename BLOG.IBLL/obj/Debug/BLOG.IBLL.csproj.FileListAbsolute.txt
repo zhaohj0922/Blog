@@ -1,0 +1,13 @@
+D:\myself\project\BLOG\BLOG.IBLL\bin\Debug\BLOG.IBLL.dll
+D:\myself\project\BLOG\BLOG.IBLL\bin\Debug\BLOG.IBLL.pdb
+D:\myself\project\BLOG\BLOG.IBLL\obj\Debug\BLOG.IBLL.csprojAssemblyReference.cache
+D:\myself\project\BLOG\BLOG.IBLL\obj\Debug\BLOG.IBLL.csproj.CoreCompileInputs.cache
+D:\myself\project\BLOG\BLOG.IBLL\obj\Debug\BLOG.IBLL.dll
+D:\myself\project\BLOG\BLOG.IBLL\obj\Debug\BLOG.IBLL.pdb
+D:\myself\project\BLOG\BLOG.IBLL\bin\Debug\BLOG.Model.dll
+D:\myself\project\BLOG\BLOG.IBLL\bin\Debug\EntityFramework.dll
+D:\myself\project\BLOG\BLOG.IBLL\bin\Debug\BLOG.Model.pdb
+D:\myself\project\BLOG\BLOG.IBLL\bin\Debug\BLOG.Model.dll.config
+D:\myself\project\BLOG\BLOG.IBLL\bin\Debug\EntityFramework.xml
+D:\myself\project\BLOG\BLOG.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\myself\project\BLOG\BLOG.IBLL\obj\Debug\BLOG.IBLL.csproj.CopyComplete

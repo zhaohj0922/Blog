@@ -1,0 +1,6 @@
+D:\myself\project\BLOG\BLOG.Utility\bin\Debug\BLOG.Utility.dll
+D:\myself\project\BLOG\BLOG.Utility\bin\Debug\BLOG.Utility.pdb
+D:\myself\project\BLOG\BLOG.Utility\obj\Debug\BLOG.Utility.csprojAssemblyReference.cache
+D:\myself\project\BLOG\BLOG.Utility\obj\Debug\BLOG.Utility.csproj.CoreCompileInputs.cache
+D:\myself\project\BLOG\BLOG.Utility\obj\Debug\BLOG.Utility.dll
+D:\myself\project\BLOG\BLOG.Utility\obj\Debug\BLOG.Utility.pdb

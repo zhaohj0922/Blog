@@ -1,0 +1,17 @@
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\BLOG.IBase.dll.config
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\BLOG.IBase.dll
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\BLOG.IBase.pdb
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\BLOG.Model.dll
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\EntityFramework.dll
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\BLOG.Model.pdb
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\BLOG.Model.dll.config
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\EntityFramework.xml
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\myself\project\BLOG\BLOG.IBase\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\myself\project\BLOG\BLOG.IBase\obj\Debug\BLOG.IBase.csprojAssemblyReference.cache
+D:\myself\project\BLOG\BLOG.IBase\obj\Debug\BLOG.IBase.csproj.CoreCompileInputs.cache
+D:\myself\project\BLOG\BLOG.IBase\obj\Debug\BLOG.IBase.csproj.CopyComplete
+D:\myself\project\BLOG\BLOG.IBase\obj\Debug\BLOG.IBase.dll
+D:\myself\project\BLOG\BLOG.IBase\obj\Debug\BLOG.IBase.pdb

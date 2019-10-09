@@ -1,0 +1,16 @@
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\BLOG.IDAL.dll
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\BLOG.IDAL.pdb
+D:\myself\project\BLOG\BLOG.IDAL\obj\Debug\BLOG.IDAL.csprojAssemblyReference.cache
+D:\myself\project\BLOG\BLOG.IDAL\obj\Debug\BLOG.IDAL.csproj.CoreCompileInputs.cache
+D:\myself\project\BLOG\BLOG.IDAL\obj\Debug\BLOG.IDAL.dll
+D:\myself\project\BLOG\BLOG.IDAL\obj\Debug\BLOG.IDAL.pdb
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\BLOG.IBase.dll
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\BLOG.Model.dll
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\EntityFramework.dll
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\BLOG.IBase.pdb
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\BLOG.IBase.dll.config
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\BLOG.Model.pdb
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\BLOG.Model.dll.config
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\EntityFramework.xml
+D:\myself\project\BLOG\BLOG.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\myself\project\BLOG\BLOG.IDAL\obj\Debug\BLOG.IDAL.csproj.CopyComplete
